@@ -6,6 +6,6 @@ This is a transnational data set which contains all the transactions occurring b
 I have attempted a bunch of different techniques to understand the different customer segments present by analysing their purchase behaviour based on frequency, receny and average spending.
 Cohort analysis has also been performed to understand the retention rates of the cutomers based on their first purchase month.
 
-2-stage clustering, K-means and DBSCCAN has been used here to segment the customers, and the clusters have been visualised using t-SNE.
+2-stage clustering, K-means and DBSCAN has been used here to segment the customers, and the clusters have been visualised using t-SNE.
 
 Dataset Link : https://www.kaggle.com/carrie1/ecommerce-data
